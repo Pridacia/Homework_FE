@@ -1,0 +1,74 @@
+
+
+h1{
+    color: brown;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 2px;
+}
+
+
+     .my_hobby{
+        border: 4px solid #1f2230;
+        background-color: #c96a1c;
+        padding-top: 100px;
+        padding-left: 50px;
+        padding-right: 150px;  
+      } 
+      
+      .my_work{
+        border: 6px solid #dae80e;
+        background-color: #536ab0;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        padding: 30px;
+        position: relative;
+    }
+
+    img{
+        width: 500px;
+        height: 350px;
+    }
+
+    h4{
+        position: absolute;
+        color: indigo
+        top 0;
+        padding: 15px;
+    }
+
+     .my_friends{
+        border: 4px solid #1f2230;
+        background-color: #d9c10b;
+        padding-top: 50px;
+        padding-left: 35px;
+        margin-bottom: 100px;   
+    }
+
+    .img1{
+        width: 40px;
+        height: 40px;
+        margin-left: 550px;
+        margin-bottom: 30px;
+    }
+
+    .img2{
+        width: 40px;
+        height: 40px;
+        margin-bottom: 30px;
+        margin-left: 6px;      
+    }
+
+    .img3{
+        width: 58px;
+        height: 40px;
+        margin-bottom: 30px;   
+    }
+
+
+
+    
